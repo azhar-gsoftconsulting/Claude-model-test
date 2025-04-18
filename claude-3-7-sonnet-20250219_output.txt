@@ -1,0 +1,20 @@
+Model: claude-3-7-sonnet-20250219
+Response Time: 5.21 seconds
+
+# How Machine Learning Works (Simply Explained)
+
+Machine learning is like teaching a computer to learn from examples instead of giving it specific instructions.
+
+Here's how it works:
+
+1. **Gathering Data**: First, we collect lots of examples (like photos of cats and dogs, or information about houses and their prices)
+
+2. **Training**: The computer looks for patterns in this data. For example, it might notice that houses with more bedrooms tend to cost more, or that cat pictures often have pointy ears.
+
+3. **Making a Model**: The computer creates a mathematical formula (a "model") based on these patterns.
+
+4. **Making Predictions**: When given new information, the computer uses its model to make educated guesses. For instance, it can estimate a house's price or identify if a new photo shows a cat.
+
+5. **Feedback and Improvement**: If the computer makes mistakes, we can show it the correct answers, and it adjusts its model to do better next time.
+
+It's similar to how you might learn to identify birds by looking at many examples rather than memorizing a list of rules about what makes each bird species unique.
